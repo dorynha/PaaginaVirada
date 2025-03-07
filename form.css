@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Inter, sans-serif;
+    text-decoration: none;
+    list-style-type: none;
+    font-weight: bold;
+    
+}
+body{
+    background-color:antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.container{
+    width: 80%;
+    height: 80vh;
+    display: flex;
+    box-shadow: 5px 5px 10px rgba(31, 28, 28, 0.638);
+}
+.form-img {
+width: 50%;
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: #b06c44b3;
+padding: 1rem;
+}
+.form-img img{
+    width: 31rem;
+}
+.form{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.form-header{
+    justify-content: space-between;
+    display: flex;
+    margin-bottom: 3rem;
+}
+
+.login-botao{
+    display: flex;
+    align-items: center;
+    
+}
+
+.login-botao button{
+    border: none;
+    background-color: #b06c44b3;
+    border-radius: 5px;
+}
