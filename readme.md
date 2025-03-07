@@ -22,6 +22,7 @@ Formatação: O site foi todo estilizado para passar uma vibe bem tranquila e ac
 Layout: Foi criado uma layout flexisível e disposta em blocos.
 Responsividade: O site é adaptável às diferentes tipos de telas.
 
+● Alunas: Rayanne Karen L. Rodrigues e Maria Kamily Guedes.
 ● Título do Projeto: Página Virada.
 ● Descrição: É uma plataforma de venda de livros online que oferece
 uma ampla variedade de títulos de diferentes gêneros e autores. Destinado para
